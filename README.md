@@ -91,12 +91,7 @@ Going forward, plan is to add a web folder to the project, that can leverage the
 Make sure node version installed is `>=8.11.x <=9`
 
 ```sh
-$ git clone git@github.com:MossP/react-native-typescript-boilerplate.git
-$ cd react-native-typescript-boilerplate/
-
-$ npm install
-or
-$ yarn install
+yarn install
 ```
 
 
